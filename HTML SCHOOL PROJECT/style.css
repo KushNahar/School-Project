@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-image: url(black\ berry.png);
+    background-color: #cccccc;
+    background-size: cover;
+  }
+p{
+    color:whitesmoke;
+    font-weight: 900;
+    font-size: 45px;
+    font: bolder;
+}
+h2{
+    color:gold;
+    font-size: 79px;
+    font: bolder;
+}
